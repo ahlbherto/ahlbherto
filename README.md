@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ahlbherto
 - 👀 I’m interested in programming
-- 🌱 I’m currently studying Bsc COmputer Engieering
+- 🌱 I’m currently studying Bsc Computer Engieering
 - 💞️ I’m looking to collaborate on any software projects
 - 📫 You can reach me at ahlbherto@gmail.com
 
